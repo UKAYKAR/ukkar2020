@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...system Immunology
 - 🌱 I’m currently learning ...computational biology
 - 💞️ I’m looking to collaborate on ...any interesting project
-- 📫 How to reach me ...ukkar_tweets
+- 📫 How to reach me ...through linkedin
 
 <!---
 ukkar2020/ukkar2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
