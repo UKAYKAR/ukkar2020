@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ukkar2020
+- 👋 Hi, I’m @UKAYKAR
 - 👀 I’m interested in ...system Immunology
 - 🌱 I’m currently learning ...computational biology
 - 💞️ I’m looking to collaborate on ...any interesting project
